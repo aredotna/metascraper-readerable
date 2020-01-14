@@ -1,0 +1,11 @@
+{
+  "name": "metascraper-readerable",
+  "version": "1.0.0",
+  "description": "Classifies the URL as readerable or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
