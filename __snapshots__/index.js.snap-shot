@@ -1,0 +1,8 @@
+exports['are.na/blog 1'] = {
+  "readerable": true
+}
+
+exports['damonzucconi.com 1'] = {
+  "readerable": null
+}
+
