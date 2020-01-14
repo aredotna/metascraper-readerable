@@ -2,9 +2,7 @@
 
 const { memoizeOne } = require("@metascraper/helpers");
 
-const {
-  isProbablyReaderable
-} = require("./node_modules/readability/Readability-readerable");
+const isProbablyReaderable = require("./isReaderable");
 const jsdom = require("jsdom");
 
 const { JSDOM } = jsdom;
