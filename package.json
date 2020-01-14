@@ -1,6 +1,6 @@
 {
   "name": "metascraper-readerable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Classifies the URL as readerable or not",
   "main": "index.js",
   "repository": {
